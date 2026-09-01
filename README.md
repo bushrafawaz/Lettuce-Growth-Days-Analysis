@@ -93,11 +93,12 @@ The results are interpreted to identify important patterns and potential factors
 
 ### 7. Recommendations
 
-The final analysis will provide practical recommendations based on the observed data patterns.
+Practical recommendations were developed based on the analysis findings, with particular attention to pH levels and the relationships between environmental factors and Average Growth Days.
 
-## Planned Analysis Outputs
 
-The Excel analysis will include:
+## Analysis Outputs
+
+The Excel analysis includes:
 
 * Summary calculations
 * Pivot Tables
@@ -105,6 +106,17 @@ The Excel analysis will include:
 * Comparison of environmental factors
 * Key insights
 * Recommendations
+# Key Findings
+
+The analysis found no strong linear relationship between the four environmental factors and Average Growth Days.
+
+* **Temperature:** Very weak positive correlation (r = 0.127).
+* **Humidity:** Very weak negative correlation (r = -0.139).
+* **TDS Value:** Near-zero correlation (r = 0.0003).
+* **pH Level:** Weak positive correlation (r = 0.300), which was the strongest correlation among the four factors.
+
+Overall, the results suggest that no single environmental factor analyzed showed a strong linear relationship with lettuce growth duration.
+
 
 #Out of Scope
 
@@ -131,9 +143,9 @@ This project does not include:
 
 # Project Status
 
-**In Progress**
+**Completed**
 
-The dataset has been collected and reviewed. The Excel analysis and visualizations are being organized and finalized.
+The dataset has been collected, cleaned, analyzed, and visualized. The project includes data analysis, Pivot Tables, insights, recommendations, and final documentation.
 
 # Author
 
